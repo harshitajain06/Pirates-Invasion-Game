@@ -61,13 +61,13 @@ After you're finished please remove all the comments and instructions!
 
 > Describe your project in 1 or 2 sentences.
 
-**[your_project__name]** is a...
+**[Pirates Invasion Game]** is a...
 
 ## 🛠 Built With <a name="built-with"></a>
 
 ### Tech Stack <a name="tech-stack"></a>
 
-> Describe the tech stack and include only the relevant sections that apply to your project.
+> Defend the tower against pirate ships! Use the cannon to shoot them down before they reach the tower. Act fast to prevent breaches. Game over if a ship reaches the tower. Ready for the challenge?
 
 <details>
   <summary>Client</summary>
@@ -160,8 +160,10 @@ Example command:
 
 ### Usage
 
-To run the project, execute the following command:
-
+To run the game, use the following keys:
+Use left key to move the Canon up.
+Use Right key to move the Canon down.
+Use down arrow key to shoot.
 <!--
 Example command:
 
