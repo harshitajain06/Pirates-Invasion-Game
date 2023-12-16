@@ -57,17 +57,14 @@ After you're finished please remove all the comments and instructions!
 
 <!-- PROJECT DESCRIPTION -->
 
-# 📖 [your_project_name] <a name="about-project"></a>
+# 📖 [Pirates Invasion Game] <a name="about-project"></a>
 
-> Describe your project in 1 or 2 sentences.
-
-**[Pirates Invasion Game]** is a...
+> Defend the tower against pirate ships! Use the cannon to shoot them down before they reach the tower. Act fast to prevent breaches. Game over if a ship reaches the tower. Ready for the challenge?
 
 ## 🛠 Built With <a name="built-with"></a>
 
 ### Tech Stack <a name="tech-stack"></a>
 
-> Defend the tower against pirate ships! Use the cannon to shoot them down before they reach the tower. Act fast to prevent breaches. Game over if a ship reaches the tower. Ready for the challenge?
 
 <details>
   <summary>Client</summary>
