@@ -158,16 +158,9 @@ Example command:
 ### Usage
 
 To run the game, use the following keys:
-Use left key to move the Canon up.
-Use Right key to move the Canon down.
-Use down arrow key to shoot.
-<!--
-Example command:
-
-```sh
-  rails server
-```
---->
+- > Use left arrow key to move the Canon up.
+- > Use Right arrow key to move the Canon down.
+- > Use Down arrow key to Shoot.
 
 ### Run tests
 
